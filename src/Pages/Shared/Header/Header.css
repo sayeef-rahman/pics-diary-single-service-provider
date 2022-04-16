@@ -1,4 +1,10 @@
 .navbar-link a{
     margin: 0 10px;
     text-decoration: none;
+    color: white;
+}
+.navbar-link a:hover{
+    text-decoration: underline rgb(11, 216, 11);
+    text-underline-offset: 0.5em;
+    color: darkorange;
 }

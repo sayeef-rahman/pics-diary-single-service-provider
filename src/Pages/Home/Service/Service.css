@@ -16,7 +16,7 @@ strong{
     font-size: 18px;
 }
 
-button {
+.book-btn{
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
