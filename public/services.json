@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "COMBO ELEMENTARY",
+        "price": "19500",
+        "description": "1 Senior Photographer & Cinematographer. 4 Hours Shoot. Portrait Light Setup. Unlimited Photos & Full HD Videos",
+        "img": "https://i.ibb.co/NN2DGkW/services-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "COMBO ESSENTIAL",
+        "price": "23500",
+        "description": "1 Senior Photographer & Cinematographer. 100 Special Edited Photos By Our Own Panel All Edited Photos Delivered In DVD",
+        "img": "https://i.ibb.co/YN6Z6qg/services-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "COMBO ECONOMY",
+        "price": "27000",
+        "description": "1 Senior Photographer. 1 Top Cinematographer. All Printed Photos Delivered With Matte/Glossy Paper",
+        "img": "https://i.ibb.co/gWWfFqW/services-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "COMBO SMART",
+        "price": "31500",
+        "description": "Conceptual Cinematography & Photography. 4-6 Minutes Promo Of The Full Event. 5 Hours Shoot",
+        "img": "https://i.ibb.co/pLLXryn/services-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "COMBO CLASSIC",
+        "price": "40000",
+        "description": " Unlimited (All Post Processed) Retouch: 100 Special Edited Photos By Our Own Panel All Edited Photos Delivered In DVD",
+        "img": "https://i.ibb.co/jGL2F8Y/services-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "COMBO EXCLUSIVE",
+        "price": "52000",
+        "description": "1 Top, 1 Senior & 1 Associate Photographer. Placed Close To Your Subjects For Formal Portraits, Creating A Soft Light",
+        "img": "https://i.ibb.co/KXbbrc9/services-6.jpg"
+    }
+]
+
+
+
+
+
+
+
