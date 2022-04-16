@@ -1,0 +1,27 @@
+.footer {
+    background-color: rgb(211, 211, 211);
+}
+
+.footer-container {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 10px;
+    text-align: center;
+    text-align: justify;
+    /* display: flex;
+    align-items: center;
+    justify-content: space-around; */
+}
+
+@media only screen and (min-width: 577px) {
+    .footer-container div{
+        width: 50%;
+        padding: 0 20px;
+    }
+    .footer-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+}

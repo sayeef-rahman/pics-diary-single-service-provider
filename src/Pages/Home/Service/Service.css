@@ -2,6 +2,7 @@
     border: 1px solid rgb(214, 212, 212);
     text-align: center;
     padding-bottom: 20px;
+    box-shadow: 4px 4px 5px rgb(202, 200, 200);
 }
 h4{
     margin-top: 10px;
