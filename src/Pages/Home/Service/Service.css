@@ -9,6 +9,9 @@ h4{
 .service-description {
     padding: 0 20px;
 }
+.service-price{
+    color: #048d08;
+}
 strong{
     font-size: 18px;
 }
