@@ -1,9 +1,9 @@
-div img{
+.notFound-image{
     width: 50%;
     margin: 10px auto;
     text-align: center;
 }
-div button{
+.back-home{
     width: 50%;
     margin: 10px auto;
     background-color: #4CAF50; /* Green */
@@ -16,19 +16,19 @@ div button{
     font-size: 16px;
   }
 
-div button a{
+.back-home a{
     font-size: 20px;
     font-weight: 700;
     text-decoration: none;
     color: white;
 }
-div{
+.not-found-container{
     display: grid;
     grid-template-columns: repeat(1,1fr);
 }
 
 @media only screen and (max-width: 550px) {
-    div img{
+    .notFound-image{
         width: 80%;
         margin: 10px auto;
         text-align: center;
