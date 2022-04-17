@@ -7,7 +7,7 @@ const NotFound = () => {
     return (
         <div>
             <img src={notFound}/>
-            <button><Link to='/'>Home</Link></button>
+            <button><Link to='/'>Go Home</Link></button>
         </div>
     );
 };
