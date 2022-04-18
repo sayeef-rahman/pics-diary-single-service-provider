@@ -1,4 +1,4 @@
-# Ramdana Dates
+# Pics Diary
 
 This project is Single Person Service Provider website. Which has login & registration suystem both Email Password & Social Login. 
 
