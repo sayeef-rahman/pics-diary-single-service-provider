@@ -1,6 +1,6 @@
 # Ramdana Dates
 
-This project is about Dates(fruit) Customer Review. 
+This project is Single Person Service Provider website. Which has login & registration suystem both Email Password & Social Login. 
 
 [Live Site](https://pics-diary.web.app/)
 
